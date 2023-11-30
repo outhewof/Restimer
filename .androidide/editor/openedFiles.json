@@ -1,20 +1,80 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/res/values/themes.xml",
+      "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/res/layout/activity_main.xml",
       "selection": {
         "end": {
-          "column": 12,
-          "index": 356,
+          "column": 36,
+          "index": 385,
           "line": 8
         },
         "start": {
-          "column": 12,
-          "index": 356,
+          "column": 36,
+          "index": 385,
           "line": 8
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/res/menu/top_app_bar.xml",
+      "selection": {
+        "end": {
+          "column": 4,
+          "index": 173,
+          "line": 4
+        },
+        "start": {
+          "column": 4,
+          "index": 173,
+          "line": 4
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/java/com/outhewof/restimer/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 3,
+          "index": 788,
+          "line": 31
+        },
+        "start": {
+          "column": 3,
+          "index": 788,
+          "line": 31
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/gradle.properties",
+      "selection": {
+        "end": {
+          "column": 40,
+          "index": 1398,
+          "line": 23
+        },
+        "start": {
+          "column": 40,
+          "index": 1398,
+          "line": 23
         }
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/res/values/themes.xml"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/res/menu/top_app_bar.xml"
 }
