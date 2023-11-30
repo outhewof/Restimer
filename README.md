@@ -1,4 +1,5 @@
 <img src="icon.png" alt="Restimer app icon" width="200" height="200">
+
 # Restimer
 A very simple and focused resting timer app for your workouts, made for Android.
 
