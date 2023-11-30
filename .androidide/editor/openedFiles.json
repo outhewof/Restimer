@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/res/values/themes.xml",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 356,
+          "line": 8
+        },
+        "start": {
+          "column": 12,
+          "index": 356,
+          "line": 8
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/res/values/themes.xml"
+}
